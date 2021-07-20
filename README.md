@@ -12,4 +12,3 @@ Portfolio and Index Performance Analytics Dashboard (2020): <br/>
 Self-initiated work and developed in early career.<br/>
 https://jc4878alex.shinyapps.io/TIPRD/?_ga=2.19924539.2080853733.1626503525-531429865.1626503525 <br/>
 
-
